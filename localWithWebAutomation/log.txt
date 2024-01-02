@@ -1,0 +1,32 @@
+///TEST START\\\
+------------------------------------------------------------------
+Log: 2023-01-11 22:14:11.470564
+
+PYTHON ERRORS:
+Traceback info:
+  File "C:\Users\ephra\Downloads\Source\clanStats\clanStats.py", line 218, in <module>
+    goTo()
+
+Error Info:
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+------------------------------------------------------------------
+Log: 2023-01-11 22:15:35.270668
+
+PYTHON ERRORS:
+Traceback info:
+  File "C:\Users\ephra\Downloads\Source\clanStats\clanStats.py", line 236, in <module>
+    nameNew, numNew = read('s.txt')
+
+Error Info:
+[Errno 2] No such file or directory: 's.txt'
+------------------------------------------------------------------
+Log: 2023-01-11 22:18:45.587487
+
+PYTHON ERRORS:
+Traceback info:
+  File "C:\Users\ephra\Downloads\Source\clanStats\clanStats.py", line 236, in <module>
+    nameNew, numNew = read('s.txt')
+
+Error Info:
+[Errno 2] No such file or directory: 's.txt'
+///TEST END\\\
