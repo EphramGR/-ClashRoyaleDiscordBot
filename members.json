@@ -1,0 +1,665 @@
+[
+  {
+    "tag": "#2LQPCYQ89",
+    "name": "Damon S.",
+    "role": "elder",
+    "lastSeen": "20230201T053645.000Z",
+    "expLevel": 48,
+    "trophies": 7270,
+    "arena": {
+      "id": 54000016,
+      "name": "Arena 19"
+    },
+    "clanRank": 1,
+    "previousClanRank": 1,
+    "donations": 150,
+    "donationsReceived": 0,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#2GY2GYJPY",
+    "name": "<c2>Aidalino",
+    "role": "elder",
+    "lastSeen": "20230201T053143.000Z",
+    "expLevel": 44,
+    "trophies": 7282,
+    "arena": {
+      "id": 54000016,
+      "name": "Arena 19"
+    },
+    "clanRank": 2,
+    "previousClanRank": 2,
+    "donations": 212,
+    "donationsReceived": 200,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#2UR80PR",
+    "name": "King Panda Lord",
+    "role": "leader",
+    "lastSeen": "20230201T173408.000Z",
+    "expLevel": 50,
+    "trophies": 7274,
+    "arena": {
+      "id": 54000016,
+      "name": "Arena 19"
+    },
+    "clanRank": 3,
+    "previousClanRank": 3,
+    "donations": 282,
+    "donationsReceived": 240,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#2GUGCQL0",
+    "name": "Ben G",
+    "role": "elder",
+    "lastSeen": "20230201T151043.000Z",
+    "expLevel": 43,
+    "trophies": 6767,
+    "arena": {
+      "id": 54000015,
+      "name": "Arena 18"
+    },
+    "clanRank": 4,
+    "previousClanRank": 4,
+    "donations": 352,
+    "donationsReceived": 320,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#LUCQLPUY",
+    "name": "Vaughan",
+    "role": "coLeader",
+    "lastSeen": "20230201T165916.000Z",
+    "expLevel": 50,
+    "trophies": 6538,
+    "arena": {
+      "id": 54000015,
+      "name": "Arena 18"
+    },
+    "clanRank": 5,
+    "previousClanRank": 5,
+    "donations": 222,
+    "donationsReceived": 280,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#JPRPGGV2G",
+    "name": "Fl1ck",
+    "role": "member",
+    "lastSeen": "20230201T153715.000Z",
+    "expLevel": 38,
+    "trophies": 6518,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 6,
+    "previousClanRank": 6,
+    "donations": 132,
+    "donationsReceived": 240,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#PC8808JP0",
+    "name": "mexican sausage",
+    "role": "elder",
+    "lastSeen": "20230201T174135.000Z",
+    "expLevel": 42,
+    "trophies": 6380,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 7,
+    "previousClanRank": 7,
+    "donations": 70,
+    "donationsReceived": 40,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#9GU8LULU8",
+    "name": "mushroomcloud",
+    "role": "elder",
+    "lastSeen": "20230201T040034.000Z",
+    "expLevel": 49,
+    "trophies": 6263,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 8,
+    "previousClanRank": 8,
+    "donations": 92,
+    "donationsReceived": 80,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#28LULQU",
+    "name": "gonna get you",
+    "role": "elder",
+    "lastSeen": "20230131T182202.000Z",
+    "expLevel": 45,
+    "trophies": 6228,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 9,
+    "previousClanRank": 9,
+    "donations": 10,
+    "donationsReceived": 40,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#RG0PY0RQY",
+    "name": "PAPPAPUFF",
+    "role": "coLeader",
+    "lastSeen": "20230201T172507.000Z",
+    "expLevel": 45,
+    "trophies": 6199,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 10,
+    "previousClanRank": 12,
+    "donations": 160,
+    "donationsReceived": 216,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#CG8QJGP",
+    "name": "Corvalus",
+    "role": "coLeader",
+    "lastSeen": "20230201T005947.000Z",
+    "expLevel": 47,
+    "trophies": 6176,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 11,
+    "previousClanRank": 10,
+    "donations": 106,
+    "donationsReceived": 0,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#C8GG22U98",
+    "name": "bigbomb",
+    "role": "elder",
+    "lastSeen": "20230201T060607.000Z",
+    "expLevel": 40,
+    "trophies": 6160,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 12,
+    "previousClanRank": 11,
+    "donations": 36,
+    "donationsReceived": 40,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#9PLRP0V",
+    "name": "jpazz961",
+    "role": "elder",
+    "lastSeen": "20230201T005928.000Z",
+    "expLevel": 42,
+    "trophies": 6039,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 13,
+    "previousClanRank": 13,
+    "donations": 228,
+    "donationsReceived": 160,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#2G2GJJLQ9",
+    "name": "Baldur",
+    "role": "member",
+    "lastSeen": "20230201T172425.000Z",
+    "expLevel": 40,
+    "trophies": 6027,
+    "arena": {
+      "id": 54000014,
+      "name": "Arena 17"
+    },
+    "clanRank": 14,
+    "previousClanRank": 14,
+    "donations": 342,
+    "donationsReceived": 240,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#R922U9G",
+    "name": "Snifflez",
+    "role": "elder",
+    "lastSeen": "20230201T174857.000Z",
+    "expLevel": 45,
+    "trophies": 5986,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 15,
+    "previousClanRank": 15,
+    "donations": 322,
+    "donationsReceived": 260,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#UYJ09VRUC",
+    "name": "Buck",
+    "role": "elder",
+    "lastSeen": "20230201T150351.000Z",
+    "expLevel": 36,
+    "trophies": 5933,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 16,
+    "previousClanRank": 16,
+    "donations": 40,
+    "donationsReceived": 40,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#28VG9Y2YY",
+    "name": "YungClasher",
+    "role": "member",
+    "lastSeen": "20230201T144652.000Z",
+    "expLevel": 43,
+    "trophies": 5878,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 17,
+    "previousClanRank": 17,
+    "donations": 196,
+    "donationsReceived": 320,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#JLL20QJ8G",
+    "name": "SuperDino484",
+    "role": "elder",
+    "lastSeen": "20230201T144539.000Z",
+    "expLevel": 40,
+    "trophies": 5842,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 18,
+    "previousClanRank": 18,
+    "donations": 122,
+    "donationsReceived": 240,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#PRJG2JY2G",
+    "name": "Tingus Pingus",
+    "role": "member",
+    "lastSeen": "20230201T172436.000Z",
+    "expLevel": 43,
+    "trophies": 5800,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 19,
+    "previousClanRank": 19,
+    "donations": 40,
+    "donationsReceived": 80,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#LRJP9C0R2",
+    "name": "I am\u1d47\u1d43\u1d48\u263a",
+    "role": "member",
+    "lastSeen": "20230201T120457.000Z",
+    "expLevel": 37,
+    "trophies": 5781,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 20,
+    "previousClanRank": 20,
+    "donations": 108,
+    "donationsReceived": 120,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#J0J0V08YP",
+    "name": "<c4> biggrummy",
+    "role": "elder",
+    "lastSeen": "20230201T172420.000Z",
+    "expLevel": 36,
+    "trophies": 5769,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 21,
+    "previousClanRank": 21,
+    "donations": 118,
+    "donationsReceived": 160,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#20Q29PY9",
+    "name": "BitCoinSparky!",
+    "role": "elder",
+    "lastSeen": "20230201T164900.000Z",
+    "expLevel": 34,
+    "trophies": 5728,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 22,
+    "previousClanRank": 22,
+    "donations": 318,
+    "donationsReceived": 240,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#8ULYRY00C",
+    "name": "minerva",
+    "role": "member",
+    "lastSeen": "20230131T155616.000Z",
+    "expLevel": 45,
+    "trophies": 5727,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 23,
+    "previousClanRank": 23,
+    "donations": 0,
+    "donationsReceived": 0,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#RJ0PJRC00",
+    "name": "xtna",
+    "role": "elder",
+    "lastSeen": "20230201T073539.000Z",
+    "expLevel": 44,
+    "trophies": 5719,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 24,
+    "previousClanRank": 24,
+    "donations": 266,
+    "donationsReceived": 160,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#P0QPGJG",
+    "name": "earl",
+    "role": "elder",
+    "lastSeen": "20230131T135425.000Z",
+    "expLevel": 50,
+    "trophies": 5695,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 25,
+    "previousClanRank": 25,
+    "donations": 58,
+    "donationsReceived": 0,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#LR8JGU8C0",
+    "name": "Ast_21",
+    "role": "member",
+    "lastSeen": "20230130T235926.000Z",
+    "expLevel": 36,
+    "trophies": 5671,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 26,
+    "previousClanRank": 26,
+    "donations": 18,
+    "donationsReceived": 40,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#CYQCC9",
+    "name": "SLowPowks",
+    "role": "member",
+    "lastSeen": "20230201T160532.000Z",
+    "expLevel": 44,
+    "trophies": 5596,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 27,
+    "previousClanRank": 27,
+    "donations": 102,
+    "donationsReceived": 160,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#U8UVGQ8UP",
+    "name": "Fortress..",
+    "role": "member",
+    "lastSeen": "20230201T054556.000Z",
+    "expLevel": 33,
+    "trophies": 5541,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 28,
+    "previousClanRank": 28,
+    "donations": 84,
+    "donationsReceived": 120,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#V98LRLJQP",
+    "name": "Christian",
+    "role": "member",
+    "lastSeen": "20230201T013454.000Z",
+    "expLevel": 32,
+    "trophies": 5523,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 29,
+    "previousClanRank": 29,
+    "donations": 28,
+    "donationsReceived": 0,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#VPGL0CQU8",
+    "name": "jib",
+    "role": "member",
+    "lastSeen": "20230201T145329.000Z",
+    "expLevel": 32,
+    "trophies": 5508,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 30,
+    "previousClanRank": 30,
+    "donations": 116,
+    "donationsReceived": 80,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#G9Q028PPG",
+    "name": "G.U.L.L.I.X",
+    "role": "elder",
+    "lastSeen": "20230201T171041.000Z",
+    "expLevel": 41,
+    "trophies": 5503,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 31,
+    "previousClanRank": 35,
+    "donations": 420,
+    "donationsReceived": 80,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#U0G8JCLV",
+    "name": "Bigfoot Bob",
+    "role": "member",
+    "lastSeen": "20230201T142100.000Z",
+    "expLevel": 41,
+    "trophies": 5503,
+    "arena": {
+      "id": 54000013,
+      "name": "Arena 16"
+    },
+    "clanRank": 32,
+    "previousClanRank": 31,
+    "donations": 0,
+    "donationsReceived": 160,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#2R9Y2L2R",
+    "name": "Powks",
+    "role": "member",
+    "lastSeen": "20230201T161711.000Z",
+    "expLevel": 43,
+    "trophies": 5465,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 33,
+    "previousClanRank": 32,
+    "donations": 114,
+    "donationsReceived": 160,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#P09Y08GYV",
+    "name": "SkyAvenger0047",
+    "role": "elder",
+    "lastSeen": "20230201T150140.000Z",
+    "expLevel": 42,
+    "trophies": 5389,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 34,
+    "previousClanRank": 33,
+    "donations": 154,
+    "donationsReceived": 320,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#C00YULL2P",
+    "name": "\u5e7d\u970a",
+    "role": "member",
+    "lastSeen": "20230201T170301.000Z",
+    "expLevel": 33,
+    "trophies": 5362,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 35,
+    "previousClanRank": 0,
+    "donations": 0,
+    "donationsReceived": 0,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#C8Q0CU29Q",
+    "name": "caramel",
+    "role": "member",
+    "lastSeen": "20230201T051951.000Z",
+    "expLevel": 37,
+    "trophies": 5283,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 36,
+    "previousClanRank": 34,
+    "donations": 108,
+    "donationsReceived": 160,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#G892LG0QY",
+    "name": "Tragik",
+    "role": "member",
+    "lastSeen": "20230201T044747.000Z",
+    "expLevel": 31,
+    "trophies": 5216,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 37,
+    "previousClanRank": 36,
+    "donations": 18,
+    "donationsReceived": 120,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#JP2CL9L28",
+    "name": "Alpha",
+    "role": "member",
+    "lastSeen": "20230201T171822.000Z",
+    "expLevel": 32,
+    "trophies": 5140,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 38,
+    "previousClanRank": 37,
+    "donations": 54,
+    "donationsReceived": 80,
+    "clanChestPoints": 0
+  },
+  {
+    "tag": "#9VRYR20VQ",
+    "name": "chorps",
+    "role": "member",
+    "lastSeen": "20230201T000007.000Z",
+    "expLevel": 31,
+    "trophies": 5090,
+    "arena": {
+      "id": 54000012,
+      "name": "Arena 15"
+    },
+    "clanRank": 39,
+    "previousClanRank": 38,
+    "donations": 18,
+    "donationsReceived": 40,
+    "clanChestPoints": 0
+  }
+]
